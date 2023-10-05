@@ -14,4 +14,3 @@ Projeto do curso "HTML e CSS: ambientes de desenvolvimento, estrutura de arquivo
 - Otavio Henrique
 - [Linkedin](https://www.linkedin.com/in/otavio-henrique-de-lima-e-silva-94076ba1/)
 - [Site pessoal](https://otaviohls.vercel.app/)
-
